@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+google-auth-oauthlib
+google-api-python-client
+pytube
+opencv-python
+numpy
+mediapipe
+moviepy
+faster-whisper
+pysubs2
